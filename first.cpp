@@ -1,6 +1,6 @@
 #include "header.h"
 #include <iostream>
-
+#include <sound/asound.h>
 using namespace std;
 
 int Func(int, int);
